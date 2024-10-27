@@ -5,7 +5,7 @@
 Netflix-Clone
 
 
-A fully functional Netflix clone developed using a combination of front-end and back-end technologies, including HTML, PHP, SQL, and JavaScript. This project features a user-friendly interface for browsing, searching, and streaming content, mirroring the core functionalities of the original Netflix platform.
+A fully functional Netflix clone developed using both front-end and back-end technologies, including HTML, PHP, SQL, and JavaScript. This project features a user-friendly interface for browsing, searching, and streaming content, mirroring the core functionalities of the original Netflix platform.
 
 Created while Learning object oriented programming PHP + MySQL with some Ajax, JavaScript, jQuerry and CSS.
 
