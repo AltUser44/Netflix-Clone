@@ -48,8 +48,9 @@ Created while Learning object oriented programming PHP + MySQL with some Ajax, J
 
 ![Screenshot 2024-10-26 223936](https://github.com/user-attachments/assets/66641ac2-f286-4661-b22d-889a1f9ec349)
 
-**All videos and images used in this project are sourced from public domain libraries, ensuring that they are copyright-free and can be used without restrictions. Project uses public domain videos and images (copyright free).
-Based on lessons from Reece Kenney.**
+****All videos and images used in this project are sourced from public domain libraries, ensuring that they are copyright-free and can be used without restrictions.** 
+**Project uses public domain videos and images (copyright free).**
+**Based on lessons from Reece Kenney.****
 
 
 
