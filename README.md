@@ -1,6 +1,8 @@
+
 **Jayyflix**
 -----------------------------------------
-# Netflix-Clone
+
+Netflix-Clone
 
 
 A fully functional Netflix clone developed using a combination of front-end and back-end technologies, including HTML, PHP, SQL, and JavaScript. This project features a user-friendly interface for browsing, searching, and streaming content, mirroring the core functionalities of the original Netflix platform.
@@ -15,8 +17,7 @@ Next movie/episode suggestion
 Create account/Login in and Logout
 Become a subcribed member with a linked paypal sign in to your account. 
 
-**
-Registration page:**
+**Registration page:**
 
 ![Screenshot 2024-10-26 224300](https://github.com/user-attachments/assets/00819222-0b18-429d-9c69-a569884693a0)
 
