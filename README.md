@@ -14,3 +14,7 @@ Search for movies and TV shows
 Next movie/episode suggestion
 Create account/Login in and Logout
 Become a subcribed member with a linked paypal sign in to your account. 
+
+
+Registration page:
+
