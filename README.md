@@ -11,10 +11,10 @@ Created while Learning object oriented programming PHP + MySQL with some Ajax, J
 
 **Main features:**
 
-* Video player(Including, pausing, continue watching, replay and autoplay to next episode)
-* Search for movies and TV shows
-* Next movie/episode suggestion
-* Create account/Login in and Logout
+* Video player(Including, pausing, continue watching, replay and autoplay to next episode).
+* Search for movies and TV shows.
+* Next movie/episode suggestion.
+* Create account/Login in and Logout.
 * Become a subcribed member with a linked paypal sign in to your account. 
 
 **Registration page:**
