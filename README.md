@@ -19,9 +19,10 @@ Created while Learning object oriented programming PHP + MySQL with some Ajax, J
 
 **Registration page:**
 
+![Screenshot 2024-10-26 224319](https://github.com/user-attachments/assets/25b5d27f-0e88-40c0-9e49-e380e91a7c88)
+
 ![Screenshot 2024-10-26 224300](https://github.com/user-attachments/assets/00819222-0b18-429d-9c69-a569884693a0)
 
-![Screenshot 2024-10-26 224319](https://github.com/user-attachments/assets/25b5d27f-0e88-40c0-9e49-e380e91a7c88)
 
 **Index page:**
 
