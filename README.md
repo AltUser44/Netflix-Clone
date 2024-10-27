@@ -29,5 +29,13 @@ Become a subcribed member with a linked paypal sign in to your account.
 
 ![Screenshot 2024-10-26 223738](https://github.com/user-attachments/assets/dc1bfcea-23ee-4895-8359-a73f265ba764)
 
-![Screenshot 2024-10-26 223832](https://github.com/user-attachments/assets/044bc924-104e-43d0-ba85-9b2a6b4f60b4)
+
+**List of all episodes of one TV Show. Already seen videos marked with checkbox:**
+
+![Screenshot 2024-10-26 224503](https://github.com/user-attachments/assets/182e6971-03ab-40c6-8665-cc80a859232c)
+
+**Video search:**
+
+![Screenshot 2024-10-26 223902](https://github.com/user-attachments/assets/f9df3c76-4786-4826-9afa-61d36f988646)
+
 
